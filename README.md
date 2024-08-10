@@ -1,7 +1,5 @@
-# Computo-Movil >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JesusJavierJR/Computo-Movil.git
-git push -u origin main
+# Computo-Movil 
+
+Este es es repositorio para la materia Computo Movil GRUPO-03
+
+Jacobo Ruiz Jesus Javier
